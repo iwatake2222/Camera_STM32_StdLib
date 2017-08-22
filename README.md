@@ -22,7 +22,7 @@
 		* stop capture
 	* cap 1
 		* start continuous capture
-	* cap 1
+	* cap 2
 		* single frame capture
 
 # Environment
